@@ -42,12 +42,11 @@ Recursos disponibles
 -   **apellido\_nombre (string):** apellido y nombre de la autoridad
 
 -   **descripcion\_tipo\_documento (string):** descripción del tipo de documento de la autoridad
-        - D.N.I.: documento nacional de identidad
-        - L.E.: libreta de enrolamiento
-        - L.C.: libreta cívica
-        - C.I.: cédula de identidad
-        - PASAPORTE: pasaporte
-        - OTROS: Otros tipos de documento
+        -D.N.I.: documento nacional de identidad
+        -L.E.: libreta de enrolamiento
+        -L.C.: libreta cívica
+        -C.I.: cédula de identidad
+        -OTROS: otros tipos de documento
 
 -   **numero\_documento (string):** número de documento de la autoridad
 
