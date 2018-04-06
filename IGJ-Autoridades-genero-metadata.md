@@ -8,7 +8,7 @@ http://datos.jus.gob.ar/dataset/igj-autoridades-genero
 Características
 ---------------
 
--   **Fecha de Primera Publicación:** 21/03/2016
+-   **Fecha de Primera Publicación:** 21/03/2018
 
 -   **Tags o Etiquetas:** IGJ, asociaciones civiles, autoridades, entidades, fundaciones, genero, personas jurídicas, sociedades, sociedad de responsabilidad limitada, sociedades anónimas, sociedades extranjeras
 
@@ -33,7 +33,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** Autoridades de las entidades por género desde septiembre de 2016 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
