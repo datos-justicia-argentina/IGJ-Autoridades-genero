@@ -37,23 +37,23 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **numero\_correlativo (int):** número correlativo que identifica la entidad
+-   **numero_correlativo (int):** número correlativo que identifica la entidad
 
--   **apellido\_nombre (string):** apellido y nombre de la autoridad
+-   **apellido_nombre (string):** apellido y nombre de la autoridad
 
--   **descripcion\_tipo\_documento (string):** descripción del tipo de documento de la autoridad
+-   **descripcion_tipo_documento (string):** descripción del tipo de documento de la autoridad
         -D.N.I.: documento nacional de identidad
         -L.E.: libreta de enrolamiento
         -L.C.: libreta cívica
         -C.I.: cédula de identidad
         -OTROS: otros tipos de documento
 
--   **numero\_documento (string):** número de documento de la autoridad
+-   **numero_documento (string):** número de documento de la autoridad
 
--   **sexo\_autoridad (string):** sexo de la autoridad. Toma valores "M" para masculino y "F" para femenino. Este campo fue asignado automáticamente en base al nombre de la autoridad, a los efectos de realizar análisis estadísticos de género (1)
+-   **genero_autoridad (string):** sexo de la autoridad. Toma valores "M" para masculino y "F" para femenino. Este campo fue asignado automáticamente en base al nombre de la autoridad, a los efectos de realizar análisis estadísticos de género (1)
 
--   **descripcion\_tipo\_societario (string):** descripción del tipo societario<span id="domicilios" class="anchor"><span id="campos-del-recurso-1" class="anchor"></span></span>
+-   **descripcion_tipo_societario (string):** descripción del tipo societario
 
 ### Notas
 
-1.  Para asignar el valor del campo sexo\_autoridad se cruzaron los datos de apellido\_nombre de la table provista por la IGJ con una tabla de nombres permitidos aprobados por el Registro Civil obtenido de la página de la Ciudad de Buenos Aires <https://data.buenosaires.gob.ar/dataset/nombres-permitidos>
+1.  Para asignar el valor del campo genero_autoridad se cruzaron los datos de apellido_nombre de la table provista por la IGJ con una tabla de nombres permitidos aprobados por el Registro Civil obtenido de la página de la Ciudad de Buenos Aires <https://data.buenosaires.gob.ar/dataset/nombres-permitidos>
