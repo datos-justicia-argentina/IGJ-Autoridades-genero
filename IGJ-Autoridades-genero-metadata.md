@@ -56,4 +56,6 @@ Recursos disponibles
 
 ### Notas
 
+[Ley 27.275 - Derecho de Acceso a la Información Pública]( http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm)
+
 1.  Para asignar el valor del campo genero_autoridad se cruzaron los datos de apellido_nombre de la table provista por la IGJ con una tabla de nombres permitidos aprobados por el Registro Civil obtenido de la página de la Ciudad de Buenos Aires <https://data.buenosaires.gob.ar/dataset/nombres-permitidos>
