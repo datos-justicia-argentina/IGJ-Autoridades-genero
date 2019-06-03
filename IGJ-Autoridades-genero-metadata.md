@@ -25,9 +25,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Entidades
+### IGJ. Autoridades de entidades por género - AAAAMM
 
--   **Nombre del archivo:** igj-autoridades-genero-AAAA-MM.csv
+-   **Nombre del archivo:** igj-autoridades-genero-AAAAMM.csv
 
 -   **Descripción del contenido:** contiene los datos de las autoridades de la Inspección General de Justicia (IGJ) con el agregado del tipo de sociedad a la que pertenece y el dato de sexo de la autoridad asignado automáticamente en base al nombre de la autoridad, a los efectos de realizar análisis estadísticos de género. Se estudió el subconjunto de autoridades en los que se logró identificar automáticamente sexo de los siguientes tipos de entidades: Sociedad Anónima, Sociedad de Responsabilidad Limitada, Sociedad Extranjera, Asociaciones Civiles y Fundaciones. Sobre un total de 1.568.220 autoridades, 1.535.970 corresponden a los tipos societarios estudiados, y de ellos se logró asignar automáticamente sexo a 1.512.322
 
