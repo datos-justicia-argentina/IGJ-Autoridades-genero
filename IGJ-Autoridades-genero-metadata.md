@@ -1,7 +1,7 @@
 IGJ. Autoridades género
 =======================
 
-Este dataset contiene el recurso de las autoridades de la Inspección General de Justicia (IGJ) con el agregado del tipo de sociedad a la que pertenece y el dato de sexo de la autoridad asignado automáticamente en base al nombre de la autoridad, a los efectos de realizar análisis estadísticos de género.
+Este dataset contiene el recurso de las autoridades de la Inspección General de Justicia (IGJ) con el agregado del tipo de sociedad a la que pertenece y el dato de género de la autoridad asignado automáticamente en base al nombre de la autoridad, a los efectos de realizar análisis estadísticos de género.
 
 http://datos.jus.gob.ar/dataset/igj-autoridades-genero
 
@@ -29,7 +29,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** igj-autoridades-genero-AAAAMM.csv
 
--   **Descripción del contenido:** contiene los datos de las autoridades de la Inspección General de Justicia (IGJ) con el agregado del tipo de sociedad a la que pertenece y el dato de sexo de la autoridad asignado automáticamente en base al nombre de la autoridad, a los efectos de realizar análisis estadísticos de género. Se estudió el subconjunto de autoridades en los que se logró identificar automáticamente sexo de los siguientes tipos de entidades: Sociedad Anónima, Sociedad de Responsabilidad Limitada, Sociedad Extranjera, Asociaciones Civiles y Fundaciones. Sobre un total de 1.568.220 autoridades, 1.535.970 corresponden a los tipos societarios estudiados, y de ellos se logró asignar automáticamente sexo a 1.512.322
+-   **Descripción del contenido:** contiene los datos de las autoridades de la Inspección General de Justicia (IGJ) con el agregado del tipo de sociedad a la que pertenece y el dato de género de la autoridad asignado automáticamente en base al nombre de la autoridad, a los efectos de realizar análisis estadísticos de género. Se estudió el subconjunto de autoridades en los que se logró identificar automáticamente género de los siguientes tipos de entidades: Sociedad Anónima, Sociedad de Responsabilidad Limitada, Sociedad Extranjera, Asociaciones Civiles y Fundaciones.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -50,7 +50,7 @@ Recursos disponibles
 
 -   **numero_documento (string):** número de documento de la autoridad
 
--   **genero_autoridad (string):** sexo de la autoridad. Toma valores "M" para masculino y "F" para femenino. Este campo fue asignado automáticamente en base al nombre de la autoridad, a los efectos de realizar análisis estadísticos de género (1)
+-   **genero_autoridad (string):** género de la autoridad. Toma valores "M" para masculino y "F" para femenino. Este campo fue asignado automáticamente en base al nombre de la autoridad, a los efectos de realizar análisis estadísticos de género (1)
 
 -   **descripcion_tipo_societario (string):** descripción del tipo societario
 
