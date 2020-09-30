@@ -1,7 +1,7 @@
 IGJ. Autoridades género
 =======================
 
-Este dataset contiene el recurso de las autoridades de la Inspección General de Justicia (IGJ) con el agregado del tipo de sociedad a la que pertenece y el dato de género de la autoridad asignado automáticamente en base al nombre de la autoridad, a los efectos de realizar análisis estadísticos de género.
+Este dataset contiene datos de las autoridades constituidas en la Inspección General de Justicia (IGJ) con el agregado del tipo de sociedad a la que pertenece y el dato de género de la autoridad asignado automáticamente en base al nombre de la autoridad, a los efectos de realizar análisis estadísticos de género.
 
 http://datos.jus.gob.ar/dataset/igj-autoridades-genero
 
