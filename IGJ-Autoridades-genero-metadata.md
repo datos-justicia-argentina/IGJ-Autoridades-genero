@@ -29,7 +29,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** igj-autoridades-genero-AAAAMM.csv
 
--   **Descripción del contenido:** contiene los datos de las autoridades de la Inspección General de Justicia (IGJ) con el agregado del tipo de sociedad a la que pertenece y el dato de género de la autoridad asignado automáticamente en base al nombre de la autoridad, a los efectos de realizar análisis estadísticos de género. Se estudió el subconjunto de autoridades en los que se logró identificar automáticamente género de los siguientes tipos de entidades: Sociedad Anónima, Sociedad de Responsabilidad Limitada, Sociedad Extranjera, Asociaciones Civiles y Fundaciones.
+-   **Descripción del contenido:** contiene los datos de las autoridades de entidades constituidas en la IGJ con el agregado del dato de género, asignado mediante procesos automáticos en base al nombre de la autoridad, a los efectos de realizar análisis estadísticos de género. Los tipos de entidades seleccionados fueron Sociedad Anónima, Sociedad de Responsabilidad Limitada, Sociedad Extranjera, Asociaciones Civiles y Fundaciones.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
