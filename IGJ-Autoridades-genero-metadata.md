@@ -20,7 +20,7 @@ Características
 
 -   **Grupo:** Género
 
--   **Frecuencia de Actualización:** Eventual
+-   **Frecuencia de Actualización:** Trimestralmente
 
 Recursos disponibles
 --------------------
