@@ -12,11 +12,11 @@ Características
 
 -   **Tags o Etiquetas:** IGJ, asociaciones civiles, autoridades, entidades, fundaciones, genero, personas jurídicas, sociedades, sociedad de responsabilidad limitada, sociedades anónimas, sociedades extranjeras
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Inspección General de Justicia
+-   **Organización:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Inspección General de Justicia
 
--   **Autor:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Inspección General de Justicia
+-   **Autor:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Inspección General de Justicia
 
--   **Responsable:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Inspección General de Justicia
+-   **Responsable:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Inspección General de Justicia
 
 -   **Grupo:** Género
 
